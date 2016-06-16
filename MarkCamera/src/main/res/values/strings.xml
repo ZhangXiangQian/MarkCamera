@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarkCamera</string>
+    <string name="wait_takePhoto">正在拍照.....</string>
+    <string name="wait_savePhoto">正在保存.....</string>
+</resources>
